@@ -3,6 +3,7 @@ This project predicts customer churn (whether a customer will leave the bank) us
 
 ### This is how it looks like:
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/5c24fd4d-3047-408d-8469-bc0dfb0060d5" />
+You can visit the live website here: https://customer-churn-prediction-using-ann-9dkjb5hfxfxsqpmqn9nlxg.streamlit.app/
 
 
 ## 📌 Table of Contents
