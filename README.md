@@ -191,22 +191,14 @@ We created an interactive **web app** (`my_app.py`) where users can input custom
 ```
 customer-churn-prediction-ann/
 │
-├── notebooks/
-│   └── Learning.ipynb
-│
-├── app/
-│   ├── my_app.py
-│   ├── model1.h5
-│   ├── label_encoder_gender.pkl
-│   ├── onehot_encoder_geo.pkl
-│   ├── scaler.pkl
-│
-├── data/
-│   └── Churn_Modelling.csv
-│
-├── logs/
-│
-├── requirements.txt
+├── Churn_Modelling.csv
+├── LICENSE
+├── Learning.ipynb
 ├── README.md
-└── .gitignore
+├── model1.h5
+├── label_encoder_gender.pkl
+├── onehot_encoder_geo.pkl
+├── scaler.pkl
+└──  my_app.py
+
 ```
