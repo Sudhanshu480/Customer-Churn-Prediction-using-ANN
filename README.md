@@ -129,7 +129,7 @@ _________________________________________________________________
 ### 🧮 Parameter Calculation (Manual)
 The formula for a Dense layer:
 [
-\text{Params} = (\text{Input Units} \times \text{Output Units}) + \text{Output Units (biases)}
+{Params} = {Input Units} x {Output Units} + {Output Units (biases)}
 ]
 * **dense_5**: ((13 x 128) + 128 = 1,664)
 * **dense_6**: ((128 x 64) + 64 = 8,256)
