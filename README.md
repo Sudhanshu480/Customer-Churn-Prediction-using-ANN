@@ -131,10 +131,10 @@ The formula for a Dense layer:
 [
 \text{Params} = (\text{Input Units} \times \text{Output Units}) + \text{Output Units (biases)}
 ]
-* **dense_5**: ((13 \times 128) + 128 = 1,664)
-* **dense_6**: ((128 \times 64) + 64 = 8,256)
-* **dense_7**: ((64 \times 32) + 32 = 2,080)
-* **dense_8**: ((32 \times 1) + 1 = 33)
+* **dense_5**: ((13 x 128) + 128 = 1,664)
+* **dense_6**: ((128 x 64) + 64 = 8,256)
+* **dense_7**: ((64 x 32) + 32 = 2,080)
+* **dense_8**: ((32 x 1) + 1 = 33)
 ✅ Total = **12,033 parameters** (matches Keras summary).
 
 
